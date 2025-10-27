@@ -5,6 +5,7 @@
 | TBA | TBA | <details><summary> title </summary> abstract </details> | 
 | TBA | Antti Kykkänen (Nov 13, 2025, 13:00 GMT) | <details><summary> title </summary> abstract </details> |   
 
+<details> <summary> <b>About the seminar</b> </summary> 
 Inverse problems play a central role across diverse fields, including medical imaging (CT, MRI), geophysical exploration, financial modeling, and machine learning. The fundamental challenge, recovering hidden causes from observed data, is inherently ill-posed and demands advanced mathematical techniques to ensure stability and interpretability of solutions.
 
 This seminar aims to provide a cutting-edge survey of current developments in inverse problems, highlighting the interplay between rigorous theory, algorithmic innovation, and real-world applications. Participants will gain both conceptual insights and practical knowledge of state-of-the-art approaches. Topics will include:
@@ -19,6 +20,7 @@ To foster engagement and discussion, the seminar will follow this structure:
 3. **Mode.** Online
 
 **Organizers.** [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
+</details>
 
 **Seminar rules** 
 1. The participants will be muted upon entry.
