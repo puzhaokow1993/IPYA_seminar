@@ -9,6 +9,9 @@
 > 3. The participants are kindly asked to log in with the video off, so as to avoid problems with the bandwidth. You are very welcome to turn the video on when asking questions.
 > 4. Once the talk is over and there are no more questions, the participants are very welcome to stay around a bit and chat with your colleagues.
 
+<details><summary> <b>Upcoming talk.</b> Antti Kykkänen @ Nov 13, 2025, 13:00 GMT (click to view title and abstract) </summary> <b>title.</b> TBA <br> <b>abstract.</b> TBA </details>
+
+
 <details> <summary> <b>About the seminar</b> (click to view) </summary> 
 Inverse problems play a central role across diverse fields, including medical imaging (CT, MRI), geophysical exploration, financial modeling, and machine learning. The fundamental challenge, recovering hidden causes from observed data, is inherently ill-posed and demands advanced mathematical techniques to ensure stability and interpretability of solutions.
 
