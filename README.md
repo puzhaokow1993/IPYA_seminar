@@ -1,9 +1,13 @@
 # [Inverse Problems Young Academy (IPYA)](https://ipia.site/wp/about-ipya/) Inverse Problems Seminar - Frontiers in Inverse Problems: Theory, Algorithms, and Applications
 
-| Seminar link | Speaker (date and time) | 
-|:----|:----|
-| TBA | TBA | 
-| TBA | Antti Kykkänen <br> (Nov 13, 2025, 13:00 GMT) <br> <details><summary> (click to view title and abstract) </summary> **title.** TBA <br> **abstract.** TBA </details> |    
+> [!TIP] 
+> For proper equation rendering, please view this documentation in day mode instead of night mode. 
+
+> [!NOTE]
+> 1. The participants will be muted upon entry.
+> 2. If you would like to ask a question, please unmute yourself and pose the question, then please switch the microphone back off.
+> 3. The participants are kindly asked to log in with the video off, so as to avoid problems with the bandwidth. You are very welcome to turn the video on when asking questions.
+> 4. Once the talk is over and there are no more questions, the participants are very welcome to stay around a bit and chat with your colleagues.
 
 <details> <summary> <b>About the seminar</b> (click to view) </summary> 
 Inverse problems play a central role across diverse fields, including medical imaging (CT, MRI), geophysical exploration, financial modeling, and machine learning. The fundamental challenge, recovering hidden causes from observed data, is inherently ill-posed and demands advanced mathematical techniques to ensure stability and interpretability of solutions.
@@ -22,11 +26,11 @@ To foster engagement and discussion, the seminar will follow this structure:
 **Organizers.** [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
 </details>
 
-**Seminar rules** 
-1. The participants will be muted upon entry.
-2. If you would like to ask a question, please unmute yourself and pose the question, then please switch the microphone back off.
-3. The participants are kindly asked to log in with the video off, so as to avoid problems with the bandwidth. You are very welcome to turn the video on when asking questions.
-4. Once the talk is over and there are no more questions, the participants are very welcome to stay around a bit and chat with your colleagues.
+
+| Seminar link | Speaker (date and time) | 
+|:----|:----|
+| TBA | TBA | 
+| TBA | Antti Kykkänen <br> (Nov 13, 2025, 13:00 GMT) <br> <details><summary> (click to view title and abstract) </summary> **title.** TBA <br> **abstract.** TBA </details> |    
 
 <!---
 ![\LaTeX](https://latex.codecogs.com/png.image?\dpi{110}\LaTeX)
