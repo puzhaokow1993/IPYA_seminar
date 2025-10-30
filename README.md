@@ -1,9 +1,9 @@
 # [Inverse Problems Young Academy (IPYA)](https://ipia.site/wp/about-ipya/) Inverse Problems Seminar - Frontiers in Inverse Problems: Theory, Algorithms, and Applications
 
-| Seminar link | Speaker (date and time) | Title (click to view abstract) | 
-|:----:|:----:|:----:|
-| TBA | TBA | <details><summary> title </summary> abstract </details> | 
-| TBA | Antti Kykkänen (Nov 13, 2025, 13:00 GMT) | <details><summary> title </summary> abstract </details> |   
+| Seminar link | Speaker (date and time) | 
+|:----:|:----:|
+| TBA | TBA | 
+| TBA | Antti Kykkänen (Nov 13, 2025, 13:00 GMT) <br> <details><summary> (click to view title and abstract) </summary> title and abstract </details> |    
 
 <details> <summary> <b>About the seminar</b> (click to view) </summary> 
 Inverse problems play a central role across diverse fields, including medical imaging (CT, MRI), geophysical exploration, financial modeling, and machine learning. The fundamental challenge, recovering hidden causes from observed data, is inherently ill-posed and demands advanced mathematical techniques to ensure stability and interpretability of solutions.
