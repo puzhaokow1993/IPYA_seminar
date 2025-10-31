@@ -33,9 +33,9 @@ To foster engagement and discussion, the seminar will follow this structure:
 </details>
 
 
-| Speaker (date and time) | 
-|:----|
-| Antti Kykkänen <br> (Nov 13, 2025, 13:00 GMT) <br> <details><summary> (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |    
+| date and time | Speaker| 
+|:----|:----|
+|Nov 13, 2025 <br> 13:00 GMT| Antti Kykkänen <br> <details><summary> (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |    
 
 <!---
 ![\LaTeX](https://latex.codecogs.com/png.image?\dpi{110}\LaTeX)
