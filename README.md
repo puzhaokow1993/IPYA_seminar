@@ -9,6 +9,12 @@
   <b>Abstract.</b> TBA 
 </details>
 
+**The Zoom link will be sent to all members of the seminar mailing list prior to each talk. To request inclusion on the list, please contact the IPYA secretary, [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), on behalf of the organizing committee.** 
+
+Kindly note that a Zoom license is required only for the host. All speakers and participants may join directly using the emailed link.
+
+**Organizers.** [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
+
 > [!NOTE]
 > 1. The participants will be muted upon entry.
 > 2. If you would like to ask a question, please unmute yourself and pose the question, then please switch the microphone back off.
@@ -28,8 +34,6 @@ To foster engagement and discussion, the seminar will follow this structure:
 1. **Frequency.** Bi-weekly sessions (30-60 minutes)
 2. **Structure.** Main presentation followed by 5-10 minutes of open discussion
 3. **Mode.** Online
-
-**Organizers.** [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
 </details>
 
 
